@@ -33,6 +33,11 @@
             "username": "lil",
             "password": "1",
             "role": "user"
-        }
+        }, 
+        {
+            "username": "flixprem",
+            "password": "premium",
+            "role": "Premium"
+        }, 
     ]
 }
