@@ -129,6 +129,11 @@
             "username": "rusdi",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "kaito",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
