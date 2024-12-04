@@ -245,6 +245,11 @@
             "username": "irsan",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "elcakai",
+            "password": "1",
+            "role": "user"
         }
 
 
