@@ -179,6 +179,19 @@
             "username": "penyet",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "war1",
+            "password": "1",
+            "role": "user"
+        }, 
+{
+            "username": "zayn",
+            "password": "1",
+            "role": "user"
         }
+
+
+
     ]
 }
