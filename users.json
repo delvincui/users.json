@@ -84,6 +84,11 @@
             "username": "rizz",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "ariqhost",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
