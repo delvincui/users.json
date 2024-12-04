@@ -124,6 +124,11 @@
             "username": "harll",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "rusdi",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
