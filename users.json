@@ -139,6 +139,11 @@
             "username": "ditzz",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "Faruk",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
