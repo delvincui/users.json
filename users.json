@@ -134,6 +134,11 @@
             "username": "kaito",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "ditzz",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
