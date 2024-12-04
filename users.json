@@ -194,9 +194,13 @@
             "username": "Shizuka",
             "password": "1",
             "role": "user"
-      }
+      }, 
 
-
+{
+            "username": "iwinn",
+            "password": "1",
+            "role": "user"
+}
 
     ]
 }
