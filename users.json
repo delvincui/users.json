@@ -99,6 +99,11 @@
             "username": "rillajaa",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "akmalMc",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
