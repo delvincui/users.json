@@ -79,6 +79,11 @@
             "username": "Mayyz",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "rizz",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
