@@ -250,6 +250,11 @@
             "username": "elcakai",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "biawak",
+            "password": "1",
+            "role": "user"
         }
 
 
