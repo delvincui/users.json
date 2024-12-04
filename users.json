@@ -54,6 +54,11 @@
             "username": "dit",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "celav",
+            "password": "1",
+            "role": "Premium"
         }
     ]
 }
