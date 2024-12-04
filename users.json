@@ -94,6 +94,11 @@
             "username": "denz7",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "rillajaa",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
