@@ -49,6 +49,11 @@
             "username": "qinss",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "dit",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
