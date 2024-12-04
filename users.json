@@ -200,7 +200,12 @@
             "username": "iwinn",
             "password": "1",
             "role": "user"
-}
+}, 
+        {
+            "username": "SXNEVIX",
+            "password": "1",
+            "role": "user"
+        }
 
     ]
 }
