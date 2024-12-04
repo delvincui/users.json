@@ -164,6 +164,11 @@
             "username": "rizki",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "tengo",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
