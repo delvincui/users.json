@@ -230,6 +230,11 @@
             "username": "kaizo",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "renn",
+            "password": "1",
+            "role": "user"
         }
 
     ]
