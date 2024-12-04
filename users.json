@@ -28,6 +28,17 @@
             "username": "flixprem",
             "password": "premium",
             "role": "Premium"
+        }, 
+        {
+            "username": "razz",
+            "password": "1",
+            "role": "Premium"
+        }, 
+
+{
+            "username": "bebas",
+            "password": "1",
+            "role": "Premium"
         }
     ]
 }
