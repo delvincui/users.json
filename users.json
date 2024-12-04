@@ -44,6 +44,11 @@
             "username": "bim",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "qinss",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
