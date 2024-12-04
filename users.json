@@ -169,6 +169,11 @@
             "username": "tengo",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "zyan",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
