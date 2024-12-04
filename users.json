@@ -220,6 +220,11 @@
             "username": "fyuu",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "mikel",
+            "password": "1",
+            "role": "user"
         }
 
     ]
