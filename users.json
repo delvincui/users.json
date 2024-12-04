@@ -154,6 +154,16 @@
             "username": "fiyzx",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "yenderan",
+            "password": "1",
+            "role": "user"
+        },
+        {
+            "username": "rizki",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
