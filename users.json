@@ -235,7 +235,18 @@
             "username": "renn",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "zexx",
+            "password": "1",
+            "role": "user"
+        }, 
+        {
+            "username": "irsan",
+            "password": "1",
+            "role": "user"
         }
+
 
     ]
 }
