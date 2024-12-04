@@ -59,6 +59,11 @@
             "username": "celav",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "kanzz",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
