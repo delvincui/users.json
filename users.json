@@ -189,7 +189,12 @@
             "username": "zayn",
             "password": "1",
             "role": "user"
-        }
+        }, 
+      {
+            "username": "Shizuka",
+            "password": "1",
+            "role": "user"
+      }
 
 
 
