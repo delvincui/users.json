@@ -69,6 +69,11 @@
             "username": "lutfi",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "fuuma",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
