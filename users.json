@@ -74,6 +74,11 @@
             "username": "fuuma",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "Mayyz",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
