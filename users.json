@@ -104,6 +104,11 @@
             "username": "akmalMc",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "Valen",
+            "password": "2",
+            "role": "user"
         }
     ]
 }
