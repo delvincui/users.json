@@ -32,13 +32,13 @@
         {
             "username": "razz",
             "password": "1",
-            "role": "Premium"
+            "role": "user"
         }, 
 
 {
             "username": "bebas",
             "password": "1",
-            "role": "Premium"
+            "role": "user"
         }
     ]
 }
