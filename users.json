@@ -64,6 +64,11 @@
             "username": "kanzz",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "lutfi",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
