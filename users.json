@@ -109,6 +109,11 @@
             "username": "Valen",
             "password": "2",
             "role": "user"
+        },
+        {
+            "username": "rzy",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
