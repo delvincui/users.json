@@ -270,6 +270,21 @@
             "username": "aisha",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "el",
+            "password": "1",
+            "role": "user"
+        },
+        {
+            "username": "kyy",
+            "password": "1",
+            "role": "user"
+        },
+        {
+            "username": "farid",
+            "password": "1",
+            "role": "user"
         }
 
 
