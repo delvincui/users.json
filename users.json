@@ -300,6 +300,11 @@
             "username": "venz",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "usman",
+            "password": "1",
+            "role": "user"
         }
 
 
