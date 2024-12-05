@@ -305,8 +305,12 @@
             "username": "usman",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "zars",
+            "password": "1",
+            "role": "user"
         }
-
 
     ]
 }
