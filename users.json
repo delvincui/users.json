@@ -295,6 +295,11 @@
             "username": "fikrigtg",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "venz",
+            "password": "1",
+            "role": "user"
         }
 
 
