@@ -285,6 +285,11 @@
             "username": "farid",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "reyza",
+            "password": "1",
+            "role": "user"
         }
 
 
