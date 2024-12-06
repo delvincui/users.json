@@ -330,6 +330,11 @@
             "username": "qinz",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "abib",
+            "password": "aphocalips",
+            "role": "user"
         }
 
     ]
