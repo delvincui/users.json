@@ -310,6 +310,11 @@
             "username": "zars",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "aditya",
+            "password": "1",
+            "role": "user"
         }
 
     ]
