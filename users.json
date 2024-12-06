@@ -335,6 +335,11 @@
             "username": "abib",
             "password": "aphocalips",
             "role": "user"
+        }, 
+        {
+            "username": "xeno",
+            "password": "1",
+            "role": "user"
         }
 
     ]
