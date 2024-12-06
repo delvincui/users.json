@@ -315,6 +315,11 @@
             "username": "aditya",
             "password": "1",
             "role": "user"
+        },
+        {
+            "username": "xyooly",
+            "password": "1",
+            "role": "user"
         }
 
     ]
