@@ -325,6 +325,11 @@
             "username": "sanka",
             "password": "78",
             "role": "user"
+        }, 
+        {
+            "username": "qinz",
+            "password": "1",
+            "role": "user"
         }
 
     ]
