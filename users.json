@@ -320,6 +320,11 @@
             "username": "xyooly",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "sanka",
+            "password": "78",
+            "role": "user"
         }
 
     ]
