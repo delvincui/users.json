@@ -340,7 +340,23 @@
             "username": "xeno",
             "password": "1",
             "role": "user"
+        }, 
+        {
+            "username": "zuxy",
+            "password": "1",
+            "role": "user"
+        }, 
+        {
+            "username": "razael",
+            "password": "1",
+            "role": "user"
+        }, 
+{
+            "username": "parel",
+            "password": "1",
+            "role": "user"
         }
+
 
     ]
 }
