@@ -17,6 +17,16 @@
             "password": "1",
             "role": "user-fernazer"
         },
+        {
+            "username": "thanaya",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "mayzz",
+            "password": "1",
+            "role": "user-fernazer"
+        }
      
     ]
 }
