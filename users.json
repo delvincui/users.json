@@ -86,6 +86,26 @@
             "username": "dikk",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "kurumi",
+            "password": "istri milik paul",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "rexxy",
+            "password": "rexxy001",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "ariqhosting",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "lil",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
