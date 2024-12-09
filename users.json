@@ -176,7 +176,27 @@
             "username": "harly",
             "password": "1",
             "role": "user-fernazer"
-        }
+        },
+        {
+            "username": "sky",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "monz",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "ihsan",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "elzz",
+            "password": "1",
+            "role": "user-fernazer"
+        },
 
     ]
 }
