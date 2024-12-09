@@ -156,6 +156,26 @@
             "username": "bintz",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": " sull",
+            "password": "1",
+            "role": "user-fernazer"
+        }, 
+        {
+            "username": "rapal",
+            "password": "1",
+            "role": "user-fernazer"
+        }, 
+{
+            "username": "lanz",
+            "password": "1",
+            "role": "user-fernazer"
+}, 
+        {
+            "username": "harly",
+            "password": "1",
+            "role": "user-fernazer"
         }
 
     ]
