@@ -56,6 +56,11 @@
             "username": "ninja",
             "password": "178",
             "role": "user-fernazer"
+        },
+        {
+            "username": "shaa",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
