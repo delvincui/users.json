@@ -71,6 +71,11 @@
             "username": "darr",
             "password": "6767",
             "role": "user-fernazer"
+        },
+        {
+            "username": "qinz",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
