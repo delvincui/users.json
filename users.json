@@ -126,6 +126,11 @@
             "username": "zexx",
             "password": "zexx1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "iwinn",
+            "password": "iwinn1",
+            "role": "user-fernazer"
         }
     ]
 }
