@@ -1,4 +1,4 @@
-{
+j{
     "users": [
         
         {
@@ -130,6 +130,11 @@
         {
             "username": "iwinn",
             "password": "iwinn1",
+            "role": "user-fernazer"
+        }, 
+        {
+            "username": "saga",
+            "password": "1",
             "role": "user-fernazer"
         }
     ]
