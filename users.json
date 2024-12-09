@@ -121,6 +121,11 @@
             "username": "bian",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "zexx",
+            "password": "zexx1",
+            "role": "user-fernazer"
         }
     ]
 }
