@@ -46,6 +46,16 @@
             "username": "lynn",
             "password": "lynn321",
             "role": "user-fernazer"
+        },
+        {
+            "username": "ell",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "ninja",
+            "password": "178",
+            "role": "user-fernazer"
         }
     ]
 }
