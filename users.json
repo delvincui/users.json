@@ -26,6 +26,11 @@
             "username": "mayzz",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "wily",
+            "password": "wily1",
+            "role": "user-fernazer"
         }
      
     ]
