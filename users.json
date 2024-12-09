@@ -136,6 +136,22 @@
             "username": "saga",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "aditya",
+            "password": "1",
+            "role": "user-fernazer"
+        }, 
+        {
+            "username": "vita",
+            "password": "1",
+            "role": "user-fernazer"
+        }, 
+        {
+            "username": "gita",
+            "password": "gita1",
+            "role": "user-fernazer"
         }
+
     ]
 }
