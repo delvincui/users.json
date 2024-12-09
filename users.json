@@ -111,6 +111,16 @@
             "username": "mamik",
             "password": "15",
             "role": "user-fernazer"
+        },
+        {
+            "username": "famar",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "bian",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
