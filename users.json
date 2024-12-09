@@ -76,6 +76,16 @@
             "username": "qinz",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "zee",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "dikk",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
