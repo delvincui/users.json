@@ -211,6 +211,16 @@
             "username": "mad",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "kuro",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "kuro",
+            "password": "1",
+            "role": "user-fernazer"
         }
 
     ]
