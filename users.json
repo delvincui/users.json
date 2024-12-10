@@ -237,6 +237,11 @@
             "username": "little",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "nero",
+            "password": "1",
+            "role": "user-fernazer"
         }
 
     ]
