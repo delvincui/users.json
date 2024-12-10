@@ -252,6 +252,11 @@
             "username": "darz",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "malingayam",
+            "password": "baksoayam",
+            "role": "user-fernazer"
         }
     ]
 }
