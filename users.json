@@ -242,7 +242,16 @@
             "username": "nero",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "aping",
+            "password": "1",
+            "role": "user-fernazer"
+        }, 
+        {
+            "username": "darz",
+            "password": "1",
+            "role": "user-fernazer"
         }
-
     ]
 }
