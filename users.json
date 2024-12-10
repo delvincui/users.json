@@ -196,6 +196,21 @@
             "username": "icikiwir",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "reyy",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "danzz",
+            "password": "1",
+            "role": "user-fernazer"
+        },
+        {
+            "username": "mad",
+            "password": "1",
+            "role": "user-fernazer"
         }
 
     ]
