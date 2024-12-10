@@ -226,6 +226,17 @@
             "username": "celav",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "kyyna",
+            "password": "1",
+            "role": "user-fernazer"
+        }, 
+
+        {
+            "username": "little",
+            "password": "1",
+            "role": "user-fernazer"
         }
 
     ]
