@@ -221,6 +221,11 @@
             "username": "kuro",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "celav",
+            "password": "1",
+            "role": "user-fernazer"
         }
 
     ]
