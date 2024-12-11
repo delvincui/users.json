@@ -307,6 +307,11 @@
             "username": "andra",
             "password": "andra",
             "role": "user-fernazer"
+        },
+         {
+            "username": "lynn",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
