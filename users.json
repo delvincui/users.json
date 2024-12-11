@@ -277,6 +277,11 @@
             "username": "xinbot",
             "password": "xinbot",
             "role": "user-fernazer"
+        },
+         {
+            "username": "bowo",
+            "password": "bowo",
+            "role": "user-fernazer"
         }
     ]
 }
