@@ -272,6 +272,11 @@
             "username": "japir",
             "password": "12",
             "role": "user-fernazer"
+        },
+         {
+            "username": "xinbot",
+            "password": "xinbot",
+            "role": "user-fernazer"
         }
     ]
 }
