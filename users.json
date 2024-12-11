@@ -257,6 +257,11 @@
             "username": "malingayam",
             "password": "baksoayam",
             "role": "user-fernazer"
+        },
+         {
+            "username": "malvin",
+            "password": "malvin",
+            "role": "user-fernazer"
         }
     ]
 }
