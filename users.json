@@ -282,6 +282,16 @@
             "username": "bowo",
             "password": "bowo",
             "role": "user-fernazer"
+        },
+         {
+            "username": "fahrul",
+            "password": "fahrul",
+            "role": "user-fernazer"
+        },
+         {
+            "username": "kyxkil",
+            "password": "kyxkil",
+            "role": "user-fernazer"
         }
     ]
 }
