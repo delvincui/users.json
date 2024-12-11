@@ -267,6 +267,11 @@
             "username": "murdika",
             "password": "murdika",
             "role": "user-fernazer"
+        },
+         {
+            "username": "japir",
+            "password": "12",
+            "role": "user-fernazer"
         }
     ]
 }
