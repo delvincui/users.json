@@ -302,6 +302,11 @@
             "username": "reza",
             "password": "reza",
             "role": "user-fernazer"
+        },
+         {
+            "username": "andra",
+            "password": "andra",
+            "role": "user-fernazer"
         }
     ]
 }
