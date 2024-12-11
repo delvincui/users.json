@@ -292,6 +292,11 @@
             "username": "kyxkil",
             "password": "kyxkil",
             "role": "user-fernazer"
+        },
+         {
+            "username": "liandra",
+            "password": "liandra",
+            "role": "user-fernazer"
         }
     ]
 }
