@@ -297,6 +297,11 @@
             "username": "liandra",
             "password": "liandra",
             "role": "user-fernazer"
+        },
+         {
+            "username": "aditya",
+            "password": "aditya",
+            "role": "user-fernazer"
         }
     ]
 }
