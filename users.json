@@ -312,6 +312,11 @@
             "username": "lynn",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "ridz",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
