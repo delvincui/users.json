@@ -262,6 +262,11 @@
             "username": "malvin",
             "password": "malvin",
             "role": "user-fernazer"
+        },
+         {
+            "username": "murdika",
+            "password": "murdika",
+            "role": "user-fernazer"
         }
     ]
 }
