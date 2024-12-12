@@ -332,6 +332,11 @@
             "username": "raffz",
             "password": "1",
             "role": "user-fernazer"
+        }, 
+        {
+            "username": "store",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
