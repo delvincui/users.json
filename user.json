@@ -1,0 +1,23 @@
+[
+    {
+        "username": "admin",
+        "password": "password123",
+        "role": "admin",
+        "email": "admin@example.com",
+        "banned": false
+    },
+    {
+        "username": "user1",
+        "password": "password123",
+        "role": "user",
+        "email": "user1@example.com",
+        "banned": false
+    },
+    {
+        "username": "user2",
+        "password": "password123",
+        "role": "user",
+        "email": "user2@example.com",
+        "banned": true
+    }
+]
