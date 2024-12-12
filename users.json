@@ -1,8 +1,8 @@
 [
     {
-        "username": "admin",
-        "password": "password123",
-        "role": "admin",
+        "username": "user1",
+        "password": "pass1",
+        "role": "vvip",
         "email": "admin@example.com",
         "banned": false
     },
@@ -21,3 +21,5 @@
         "banned": true
     }
 ]
+
+
