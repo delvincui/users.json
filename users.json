@@ -327,6 +327,11 @@
             "username": "yudimalingayam ",
             "password": "1",
             "role": "user-fernazer"
+        },
+        {
+            "username": "raffz",
+            "password": "1",
+            "role": "user-fernazer"
         }
     ]
 }
