@@ -337,6 +337,11 @@
             "username": "store",
             "password": "1",
             "role": "user-fernazer"
+        },
+         {
+            "username": "semua",
+            "password": "1",
+            "role": "halo sayang, jan lupa subrek fernazer code"
         }
     ]
 }
